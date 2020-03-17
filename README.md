@@ -1,6 +1,6 @@
 # Información sobre los casos de coronavirus en España
 
-_Última actualización: 16-03-2020_
+_Última actualización: 17-03-2020_
 
 * Número de casos: 11.178
 * Número de fallecidos: 491
