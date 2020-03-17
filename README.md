@@ -2,9 +2,9 @@
 
 _Última actualización: 16-03-2020_
 
-* Número de casos: 9.191
-* Número de fallecidos: 309
-* Número de ingresados en UCI: 432
+* Número de casos: 11.178
+* Número de fallecidos: 491
+* Número de ingresados en UCI: 563
 
 En este repositorio se ha recopilado la información otorgada diariamente por el Ministerio de Sanidad de españa sobre los casos de coronavirus en las diferentes comunidades autónomas. La información recopilada consiste en el número de casos total, número de casos nuevos, número de fallecimientos y número de ingresos en UCI por cada comunidad autónoma.
 
