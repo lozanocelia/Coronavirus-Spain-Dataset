@@ -14,7 +14,7 @@ La frecuencia de actualización está sujeta a la frecuencia con la que el minis
 
 ## Veracidad de los datos
 
-Revisando cada uno de los informes diarios publicados por el Ministerio de Sanidad español, he encontrado algunas irregularidades en los mismos. He intentado plasmar aquí con la mayor veracidad posible los datos publicados por el ministerio de sanidad. Si hay algún error o irregularidades en los datos, sería conveniente abrir una Issue en est repositorio para arreglarlo lo antes posible.
+Revisando cada uno de los informes diarios publicados por el Ministerio de Sanidad español, he encontrado algunas irregularidades en los mismos. He intentado plasmar aquí con la mayor veracidad posible los datos publicados por el ministerio de sanidad. Si hay algún error o irregularidades en los datos, sería conveniente abrir una Issue en este repositorio para arreglarlo lo antes posible.
 
 ## Reconocimiento
 
