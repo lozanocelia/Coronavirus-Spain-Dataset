@@ -692,15 +692,15 @@
                     "IngresosUCI": 0,
                     "CasosNuevos": 0,
                     "Fallecidos": 0
+                },
+                "LaRioja": {
+                    "latitud": 42.3179,
+                    "longitud": -2.40337,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
                 }
-            },
-            "LaRioja": {
-                "latitud": 42.3179,
-                "longitud": -2.40337,
-                "Casos": 0,
-                "IngresosUCI": 0,
-                "CasosNuevos": 0,
-                "Fallecidos": 0
             }
         },
         {
