@@ -1,6 +1,6 @@
 {
     "dates": [{
-            "date": "31-01-2020",
+            "date": "2020-01-31",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -176,184 +176,7 @@
             }
         },
         {
-            "date": "01-02-2020",
-            "comunidadAutonoma": {
-                "Andalucia": {
-                    "Nombre": "Andalucía",
-                    "latitud": 37.35225,
-                    "longitud": -4.490135,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Aragon": {
-                    "Nombre": "Aragón",
-                    "latitud": 41.5814,
-                    "longitud": -1.0538,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Asturias": {
-                    "Nombre": "Principado de Asturias",
-                    "latitud": 43.3261,
-                    "longitud": -5.84196,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Baleares": {
-                    "Nombre": "Illes Balears",
-                    "latitud": 39.6162,
-                    "longitud": 2.99156,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Canarias": {
-                    "Nombre": "Islas Canarias",
-                    "latitud": 35.6505,
-                    "longitud": -11.17464,
-                    "Casos": 1,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Cantabria": {
-                    "Nombre": "Cantabria",
-                    "latitud": 43.2182,
-                    "longitud": -4.02085,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "CastillaLaMancha": {
-                    "Nombre": "Castilla-La Mancha",
-                    "latitud": 39.00000000,
-                    "longitud": -3.0000000,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "CastillayLeon": {
-                    "Nombre": "Castilla y León",
-                    "latitud": 41.5715,
-                    "longitud": -4.83256,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Cataluna": {
-                    "Nombre": "Cataluña",
-                    "latitud": 41.6575,
-                    "longitud": 2.00777,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Ceuta": {
-                    "Nombre": "Ciudad Autónoma de Ceuta",
-                    "latitud": 35.8803,
-                    "longitud": -5.341,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "ComunidadValenciana": {
-                    "Nombre": "Comunitat Valenciana",
-                    "latitud": 39.3003,
-                    "longitud": -0.712245,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Extremadura": {
-                    "Nombre": "Extremadura",
-                    "latitud": 39.1505,
-                    "longitud": -6.17464,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Galicia": {
-                    "Nombre": "Galicia",
-                    "latitud": 42.834825,
-                    "longitud": -7.8321875,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Madrid": {
-                    "Nombre": "Comunidad de Madrid",
-                    "latitud": 40.4165,
-                    "longitud": -3.7025,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Melilla": {
-                    "Nombre": "Ciudad Autónoma de Melilla",
-                    "latitud": 35.2934,
-                    "longitud": -2.94015,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Murcia": {
-                    "Nombre": "Región de Murcia",
-                    "latitud": 37.9136,
-                    "longitud": -1.45758,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Navarra": {
-                    "Nombre": "Comunidad Foral de Navarra",
-                    "latitud": 42.7493,
-                    "longitud": -1.63845,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "PaisVasco": {
-                    "Nombre": "País Vasco",
-                    "latitud": 43.1071,
-                    "longitud": -2.485125,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "LaRioja": {
-                    "Nombre": "La Rioja",
-                    "latitud": 42.3179,
-                    "longitud": -2.40337,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                }
-            }
-
-        },
-        {
-            "date": "02-02-2020",
+            "date": "2020-02-01",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -529,182 +352,7 @@
             }
         },
         {
-            "date": "03-02-2020",
-            "comunidadAutonoma": {
-                "Andalucia": {
-                    "Nombre": "Andalucía",
-                    "latitud": 37.35225,
-                    "longitud": -4.490135,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Aragon": {
-                    "Nombre": "Aragón",
-                    "latitud": 41.5814,
-                    "longitud": -1.0538,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Asturias": {
-                    "Nombre": "Principado de Asturias",
-                    "latitud": 43.3261,
-                    "longitud": -5.84196,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Baleares": {
-                    "Nombre": "Illes Balears",
-                    "latitud": 39.6162,
-                    "longitud": 2.99156,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Canarias": {
-                    "Nombre": "Islas Canarias",
-                    "latitud": 35.6505,
-                    "longitud": -11.17464,
-                    "Casos": 1,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Cantabria": {
-                    "Nombre": "Cantabria",
-                    "latitud": 43.2182,
-                    "longitud": -4.02085,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "CastillaLaMancha": {
-                    "Nombre": "Castilla-La Mancha",
-                    "latitud": 39.00000000,
-                    "longitud": -3.0000000,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "CastillayLeon": {
-                    "Nombre": "Castilla y León",
-                    "latitud": 41.5715,
-                    "longitud": -4.83256,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Cataluna": {
-                    "Nombre": "Cataluña",
-                    "latitud": 41.6575,
-                    "longitud": 2.00777,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Ceuta": {
-                    "Nombre": "Ciudad Autónoma de Ceuta",
-                    "latitud": 35.8803,
-                    "longitud": -5.341,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "ComunidadValenciana": {
-                    "Nombre": "Comunitat Valenciana",
-                    "latitud": 39.3003,
-                    "longitud": -0.712245,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Extremadura": {
-                    "Nombre": "Extremadura",
-                    "latitud": 39.1505,
-                    "longitud": -6.17464,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Galicia": {
-                    "Nombre": "Galicia",
-                    "latitud": 42.834825,
-                    "longitud": -7.8321875,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Madrid": {
-                    "Nombre": "Comunidad de Madrid",
-                    "latitud": 40.4165,
-                    "longitud": -3.7025,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Melilla": {
-                    "Nombre": "Ciudad Autónoma de Melilla",
-                    "latitud": 35.2934,
-                    "longitud": -2.94015,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Murcia": {
-                    "Nombre": "Región de Murcia",
-                    "latitud": 37.9136,
-                    "longitud": -1.45758,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "Navarra": {
-                    "Nombre": "Comunidad Foral de Navarra",
-                    "latitud": 42.7493,
-                    "longitud": -1.63845,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "PaisVasco": {
-                    "Nombre": "País Vasco",
-                    "latitud": 43.1071,
-                    "longitud": -2.485125,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                },
-                "LaRioja": {
-                    "latitud": 42.3179,
-                    "longitud": -2.40337,
-                    "Casos": 0,
-                    "IngresosUCI": 0,
-                    "CasosNuevos": 0,
-                    "Fallecidos": 0
-                }
-            }
-        },
-        {
-            "date": "04-02-2020",
+            "date": "2020-02-02",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -878,11 +526,184 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "05-02-2020",
+            "date": "2020-02-03",
+            "comunidadAutonoma": {
+                "Andalucia": {
+                    "Nombre": "Andalucía",
+                    "latitud": 37.35225,
+                    "longitud": -4.490135,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Aragon": {
+                    "Nombre": "Aragón",
+                    "latitud": 41.5814,
+                    "longitud": -1.0538,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Asturias": {
+                    "Nombre": "Principado de Asturias",
+                    "latitud": 43.3261,
+                    "longitud": -5.84196,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Baleares": {
+                    "Nombre": "Illes Balears",
+                    "latitud": 39.6162,
+                    "longitud": 2.99156,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Canarias": {
+                    "Nombre": "Islas Canarias",
+                    "latitud": 35.6505,
+                    "longitud": -11.17464,
+                    "Casos": 1,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Cantabria": {
+                    "Nombre": "Cantabria",
+                    "latitud": 43.2182,
+                    "longitud": -4.02085,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "CastillaLaMancha": {
+                    "Nombre": "Castilla-La Mancha",
+                    "latitud": 39.00000000,
+                    "longitud": -3.0000000,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "CastillayLeon": {
+                    "Nombre": "Castilla y León",
+                    "latitud": 41.5715,
+                    "longitud": -4.83256,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Cataluna": {
+                    "Nombre": "Cataluña",
+                    "latitud": 41.6575,
+                    "longitud": 2.00777,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Ceuta": {
+                    "Nombre": "Ciudad Autónoma de Ceuta",
+                    "latitud": 35.8803,
+                    "longitud": -5.341,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "ComunidadValenciana": {
+                    "Nombre": "Comunitat Valenciana",
+                    "latitud": 39.3003,
+                    "longitud": -0.712245,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Extremadura": {
+                    "Nombre": "Extremadura",
+                    "latitud": 39.1505,
+                    "longitud": -6.17464,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Galicia": {
+                    "Nombre": "Galicia",
+                    "latitud": 42.834825,
+                    "longitud": -7.8321875,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Madrid": {
+                    "Nombre": "Comunidad de Madrid",
+                    "latitud": 40.4165,
+                    "longitud": -3.7025,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Melilla": {
+                    "Nombre": "Ciudad Autónoma de Melilla",
+                    "latitud": 35.2934,
+                    "longitud": -2.94015,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Murcia": {
+                    "Nombre": "Región de Murcia",
+                    "latitud": 37.9136,
+                    "longitud": -1.45758,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Navarra": {
+                    "Nombre": "Comunidad Foral de Navarra",
+                    "latitud": 42.7493,
+                    "longitud": -1.63845,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "PaisVasco": {
+                    "Nombre": "País Vasco",
+                    "latitud": 43.1071,
+                    "longitud": -2.485125,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "LaRioja": {
+                    "latitud": 42.3179,
+                    "longitud": -2.40337,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                }
+            }
+        },
+        {
+            "date": "2020-02-04",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -1056,10 +877,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-            "date": "06-02-2020",
+            "date": "2020-02-05",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -1233,11 +1053,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "07-02-2020",
+            "date": "2020-02-06",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -1411,11 +1229,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "08-02-2020",
+            "date": "2020-02-07",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -1589,11 +1405,185 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "09-02-2020",
+            "date": "2020-02-08",
+            "comunidadAutonoma": {
+                "Andalucia": {
+                    "Nombre": "Andalucía",
+                    "latitud": 37.35225,
+                    "longitud": -4.490135,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Aragon": {
+                    "Nombre": "Aragón",
+                    "latitud": 41.5814,
+                    "longitud": -1.0538,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Asturias": {
+                    "Nombre": "Principado de Asturias",
+                    "latitud": 43.3261,
+                    "longitud": -5.84196,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Baleares": {
+                    "Nombre": "Illes Balears",
+                    "latitud": 39.6162,
+                    "longitud": 2.99156,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Canarias": {
+                    "Nombre": "Islas Canarias",
+                    "latitud": 35.6505,
+                    "longitud": -11.17464,
+                    "Casos": 1,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Cantabria": {
+                    "Nombre": "Cantabria",
+                    "latitud": 43.2182,
+                    "longitud": -4.02085,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "CastillaLaMancha": {
+                    "Nombre": "Castilla-La Mancha",
+                    "latitud": 39.00000000,
+                    "longitud": -3.0000000,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "CastillayLeon": {
+                    "Nombre": "Castilla y León",
+                    "latitud": 41.5715,
+                    "longitud": -4.83256,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Cataluna": {
+                    "Nombre": "Cataluña",
+                    "latitud": 41.6575,
+                    "longitud": 2.00777,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Ceuta": {
+                    "Nombre": "Ciudad Autónoma de Ceuta",
+                    "latitud": 35.8803,
+                    "longitud": -5.341,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "ComunidadValenciana": {
+                    "Nombre": "Comunitat Valenciana",
+                    "latitud": 39.3003,
+                    "longitud": -0.712245,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Extremadura": {
+                    "Nombre": "Extremadura",
+                    "latitud": 39.1505,
+                    "longitud": -6.17464,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Galicia": {
+                    "Nombre": "Galicia",
+                    "latitud": 42.834825,
+                    "longitud": -7.8321875,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Madrid": {
+                    "Nombre": "Comunidad de Madrid",
+                    "latitud": 40.4165,
+                    "longitud": -3.7025,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Melilla": {
+                    "Nombre": "Ciudad Autónoma de Melilla",
+                    "latitud": 35.2934,
+                    "longitud": -2.94015,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Murcia": {
+                    "Nombre": "Región de Murcia",
+                    "latitud": 37.9136,
+                    "longitud": -1.45758,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "Navarra": {
+                    "Nombre": "Comunidad Foral de Navarra",
+                    "latitud": 42.7493,
+                    "longitud": -1.63845,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "PaisVasco": {
+                    "Nombre": "País Vasco",
+                    "latitud": 43.1071,
+                    "longitud": -2.485125,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "LaRioja": {
+                    "Nombre": "La Rioja",
+                    "latitud": 42.3179,
+                    "longitud": -2.40337,
+                    "Casos": 0,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                }
+            }
+        },
+        {
+            "date": "2020-02-09",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -1767,11 +1757,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "10-02-2020",
+            "date": "2020-02-10",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -1945,11 +1933,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "11-02-2020",
+            "date": "2020-02-11",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -2123,11 +2109,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "12-02-2020",
+            "date": "2020-02-12",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -2301,11 +2285,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "13-02-2020",
+            "date": "2020-02-13",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -2479,11 +2461,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "14-02-2020",
+            "date": "2020-02-14",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -2657,11 +2637,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "15-02-2020",
+            "date": "2020-02-15",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -2835,11 +2813,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "16-02-2020",
+            "date": "2020-02-16",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -3013,11 +2989,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "17-02-2020",
+            "date": "2020-02-17",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -3191,11 +3165,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "18-02-2020",
+            "date": "2020-02-18",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -3369,11 +3341,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "19-02-2020",
+            "date": "2020-02-19",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -3547,11 +3517,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "20-02-2020",
+            "date": "2020-02-20",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -3725,11 +3693,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "21-02-2020",
+            "date": "2020-02-21",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -3903,11 +3869,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "22-02-2020",
+            "date": "2020-02-22",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -4081,11 +4045,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "23-02-2020",
+            "date": "2020-02-23",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -4259,11 +4221,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "24-02-2020",
+            "date": "2020-02-24",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -4437,11 +4397,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "25-02-2020",
+            "date": "2020-02-25",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -4615,11 +4573,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "26-02-2020",
+            "date": "2020-02-26",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -4793,11 +4749,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "27-02-2020",
+            "date": "2020-02-27",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -4971,11 +4925,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "28-02-2020",
+            "date": "2020-02-28",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -5149,11 +5101,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "29-02-2020",
+            "date": "2020-02-29",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -5327,11 +5277,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "01-03-2020",
+            "date": "2020-03-01",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -5505,11 +5453,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-            "date": "02-03-2020",
+            "date": "2020-03-02",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -5683,12 +5629,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-
-
-            "date": "03-03-2020",
+            "date": "2020-03-03",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -5862,10 +5805,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-            "date": "04-03-2020",
+            "date": "2020-03-04",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -6039,10 +5981,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-            "date": "05-03-2020",
+            "date": "2020-03-05",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -6216,10 +6157,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-            "date": "06-03-2020",
+            "date": "2020-03-06",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -6393,10 +6333,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-            "date": "07-03-2020",
+            "date": "2020-03-07",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -6570,10 +6509,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-            "date": "08-03-2020",
+            "date": "2020-03-08",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -6747,10 +6685,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-            "date": "09-03-2020",
+            "date": "2020-03-09",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -6924,10 +6861,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-            "date": "10-03-2020",
+            "date": "2020-03-10",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -7101,10 +7037,9 @@
                     "Fallecidos": 0
                 }
             }
-
         },
         {
-            "date": "11-03-2020",
+            "date": "2020-03-11",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -7278,10 +7213,9 @@
                     "Fallecidos": 2
                 }
             }
-
         },
         {
-            "date": "12-03-2020",
+            "date": "2020-03-12",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -7455,10 +7389,9 @@
                     "Fallecidos": 2
                 }
             }
-
         },
         {
-            "date": "13-03-2020",
+            "date": "2020-03-13",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -7632,10 +7565,9 @@
                     "Fallecidos": 2
                 }
             }
-
         },
         {
-            "date": "14-03-2020",
+            "date": "2020-03-14",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -7809,10 +7741,9 @@
                     "Fallecidos": 3
                 }
             }
-
         },
         {
-            "date": "15-03-2020",
+            "date": "2020-03-15",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -7986,10 +7917,9 @@
                     "Fallecidos": 3
                 }
             }
-
         },
         {
-            "date": "16-03-2020",
+            "date": "2020-03-16",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -8163,10 +8093,9 @@
                     "Fallecidos": 4
                 }
             }
-
         },
         {
-            "date": "17-03-2020",
+            "date": "2020-03-17",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -8340,10 +8269,9 @@
                     "Fallecidos": 5
                 }
             }
-
         },
         {
-            "date": "18-03-2020",
+            "date": "2020-03-18",
             "comunidadAutonoma": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -8517,7 +8445,182 @@
                     "Fallecidos": 5
                 }
             }
-
+        },
+        {
+            "date": "2020-03-19",
+            "comunidadAutonoma": {
+                "Andalucia": {
+                    "Nombre": "Andalucía",
+                    "latitud": 37.35225,
+                    "longitud": -4.490135,
+                    "Casos": 1008,
+                    "IngresosUCI": 25,
+                    "CasosNuevos": 149,
+                    "Fallecidos": 23
+                },
+                "Aragon": {
+                    "Nombre": "Aragón",
+                    "latitud": 41.5814,
+                    "longitud": -1.0538,
+                    "Casos": 281,
+                    "IngresosUCI": 14,
+                    "CasosNuevos": 55,
+                    "Fallecidos": 15
+                },
+                "Asturias": {
+                    "Nombre": "Principado de Asturias",
+                    "latitud": 43.3261,
+                    "longitud": -5.84196,
+                    "Casos": 292,
+                    "IngresosUCI": 6,
+                    "CasosNuevos": 50,
+                    "Fallecidos": 1
+                },
+                "Baleares": {
+                    "Nombre": "Illes Balears",
+                    "latitud": 39.6162,
+                    "longitud": 2.99156,
+                    "Casos": 169,
+                    "IngresosUCI": 7,
+                    "CasosNuevos": 57,
+                    "Fallecidos": 2
+                },
+                "Canarias": {
+                    "Nombre": "Islas Canarias",
+                    "latitud": 35.6505,
+                    "longitud": -11.17464,
+                    "Casos": 220,
+                    "IngresosUCI": 23,
+                    "CasosNuevos": 39,
+                    "Fallecidos": 3
+                },
+                "Cantabria": {
+                    "Nombre": "Cantabria",
+                    "latitud": 43.2182,
+                    "longitud": -4.02085,
+                    "Casos": 83,
+                    "IngresosUCI": 4,
+                    "CasosNuevos": 15,
+                    "Fallecidos": 1
+                },
+                "CastillaLaMancha": {
+                    "Nombre": "Castilla-La Mancha",
+                    "latitud": 39.00000000,
+                    "longitud": -3.0000000,
+                    "Casos": 801,
+                    "IngresosUCI": 37,
+                    "CasosNuevos": 126,
+                    "Fallecidos": 42
+                },
+                "CastillayLeon": {
+                    "Nombre": "Castilla y León",
+                    "latitud": 41.5715,
+                    "longitud": -4.83256,
+                    "Casos": 868,
+                    "IngresosUCI": 54,
+                    "CasosNuevos": 200,
+                    "Fallecidos": 29
+                },
+                "Cataluna": {
+                    "Nombre": "Cataluña",
+                    "latitud": 41.6575,
+                    "longitud": 2.00777,
+                    "Casos": 2702,
+                    "IngresosUCI": 33,
+                    "CasosNuevos": 836,
+                    "Fallecidos": 55
+                },
+                "Ceuta": {
+                    "Nombre": "Ciudad Autónoma de Ceuta",
+                    "latitud": 35.8803,
+                    "longitud": -5.341,
+                    "Casos": 1,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 0,
+                    "Fallecidos": 0
+                },
+                "ComunidadValenciana": {
+                    "Nombre": "Comunitat Valenciana",
+                    "latitud": 39.3003,
+                    "longitud": -0.712245,
+                    "Casos": 921,
+                    "IngresosUCI": 52,
+                    "CasosNuevos": 195,
+                    "Fallecidos": 24
+                },
+                "Extremadura": {
+                    "Nombre": "Extremadura",
+                    "latitud": 39.1505,
+                    "longitud": -6.17464,
+                    "Casos": 241,
+                    "IngresosUCI": 3,
+                    "CasosNuevos": 47,
+                    "Fallecidos": 8
+                },
+                "Galicia": {
+                    "Nombre": "Galicia",
+                    "latitud": 42.834825,
+                    "longitud": -7.8321875,
+                    "Casos": 453,
+                    "IngresosUCI": 15,
+                    "CasosNuevos": 112,
+                    "Fallecidos": 4
+                },
+                "Madrid": {
+                    "Nombre": "Comunidad de Madrid",
+                    "latitud": 40.4165,
+                    "longitud": -3.7025,
+                    "Casos": 6777,
+                    "IngresosUCI": 590,
+                    "CasosNuevos": 1140,
+                    "Fallecidos": 498
+                },
+                "Melilla": {
+                    "Nombre": "Ciudad Autónoma de Melilla",
+                    "latitud": 35.2934,
+                    "longitud": -2.94015,
+                    "Casos": 23,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 3,
+                    "Fallecidos": 0
+                },
+                "Murcia": {
+                    "Nombre": "Región de Murcia",
+                    "latitud": 37.9136,
+                    "longitud": -1.45758,
+                    "Casos": 167,
+                    "IngresosUCI": 6,
+                    "CasosNuevos": 45,
+                    "Fallecidos": 0
+                },
+                "Navarra": {
+                    "Nombre": "Comunidad Foral de Navarra",
+                    "latitud": 42.7493,
+                    "longitud": -1.63845,
+                    "Casos": 482,
+                    "IngresosUCI": 11,
+                    "CasosNuevos": 96,
+                    "Fallecidos": 4
+                },
+                "PaisVasco": {
+                    "Nombre": "País Vasco",
+                    "latitud": 43.1071,
+                    "longitud": -2.485125,
+                    "Casos": 1190,
+                    "IngresosUCI": 44,
+                    "CasosNuevos": 217,
+                    "Fallecidos": 53
+                },
+                "LaRioja": {
+                    "Nombre": "La Rioja",
+                    "latitud": 42.3179,
+                    "longitud": -2.40337,
+                    "Casos": 468,
+                    "IngresosUCI": 15,
+                    "CasosNuevos": 49,
+                    "Fallecidos": 5
+                }
+            }
         }
     ]
 }
