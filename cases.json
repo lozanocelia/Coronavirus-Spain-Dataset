@@ -8621,6 +8621,182 @@
                     "Fallecidos": 5
                 }
             }
+        },
+        {
+            "date": "2020-03-20",
+            "comunidadAutonoma": {
+                "Andalucia": {
+                    "Nombre": "Andalucía",
+                    "latitud": 37.35225,
+                    "longitud": -4.490135,
+                    "Casos": 1287,
+                    "IngresosUCI": 38,
+                    "CasosNuevos": 279,
+                    "Fallecidos": 30
+                },
+                "Aragon": {
+                    "Nombre": "Aragón",
+                    "latitud": 41.5814,
+                    "longitud": -1.0538,
+                    "Casos": 360,
+                    "IngresosUCI": 28,
+                    "CasosNuevos": 79,
+                    "Fallecidos": 17
+                },
+                "Asturias": {
+                    "Nombre": "Principado de Asturias",
+                    "latitud": 43.3261,
+                    "longitud": -5.84196,
+                    "Casos": 344,
+                    "IngresosUCI": 7,
+                    "CasosNuevos": 52,
+                    "Fallecidos": 2
+                },
+                "Baleares": {
+                    "Nombre": "Illes Balears",
+                    "latitud": 39.6162,
+                    "longitud": 2.99156,
+                    "Casos": 203,
+                    "IngresosUCI": 10,
+                    "CasosNuevos": 34,
+                    "Fallecidos": 2
+                },
+                "Canarias": {
+                    "Nombre": "Islas Canarias",
+                    "latitud": 35.6505,
+                    "longitud": -11.17464,
+                    "Casos": 287,
+                    "IngresosUCI": 25,
+                    "CasosNuevos": 67,
+                    "Fallecidos": 4
+                },
+                "Cantabria": {
+                    "Nombre": "Cantabria",
+                    "latitud": 43.2182,
+                    "longitud": -4.02085,
+                    "Casos": 144,
+                    "IngresosUCI": 7,
+                    "CasosNuevos": 61,
+                    "Fallecidos": 1
+                },
+                "CastillaLaMancha": {
+                    "Nombre": "Castilla-La Mancha",
+                    "latitud": 39.00000000,
+                    "longitud": -3.0000000,
+                    "Casos": 1044,
+                    "IngresosUCI": 37,
+                    "CasosNuevos": 243,
+                    "Fallecidos": 62
+                },
+                "CastillayLeon": {
+                    "Nombre": "Castilla y León",
+                    "latitud": 41.5715,
+                    "longitud": -4.83256,
+                    "Casos": 1147,
+                    "IngresosUCI": 69,
+                    "CasosNuevos": 279,
+                    "Fallecidos": 43
+                },
+                "Cataluna": {
+                    "Nombre": "Cataluña",
+                    "latitud": 41.6575,
+                    "longitud": 2.00777,
+                    "Casos": 3270,
+                    "IngresosUCI": 33,
+                    "CasosNuevos": 568,
+                    "Fallecidos": 82
+                },
+                "Ceuta": {
+                    "Nombre": "Ciudad Autónoma de Ceuta",
+                    "latitud": 35.8803,
+                    "longitud": -5.341,
+                    "Casos": 5,
+                    "IngresosUCI": 0,
+                    "CasosNuevos": 4,
+                    "Fallecidos": 0
+                },
+                "ComunidadValenciana": {
+                    "Nombre": "Comunitat Valenciana",
+                    "latitud": 39.3003,
+                    "longitud": -0.712245,
+                    "Casos": 1105,
+                    "IngresosUCI": 71,
+                    "CasosNuevos": 184,
+                    "Fallecidos": 33
+                },
+                "Extremadura": {
+                    "Nombre": "Extremadura",
+                    "latitud": 39.1505,
+                    "longitud": -6.17464,
+                    "Casos": 297,
+                    "IngresosUCI": 4,
+                    "CasosNuevos": 56,
+                    "Fallecidos": 10
+                },
+                "Galicia": {
+                    "Nombre": "Galicia",
+                    "latitud": 42.834825,
+                    "longitud": -7.8321875,
+                    "Casos": 578,
+                    "IngresosUCI": 19,
+                    "CasosNuevos": 125,
+                    "Fallecidos": 5
+                },
+                "Madrid": {
+                    "Nombre": "Comunidad de Madrid",
+                    "latitud": 40.4165,
+                    "longitud": -3.7025,
+                    "Casos": 7165,
+                    "IngresosUCI": 678,
+                    "CasosNuevos": 388,
+                    "Fallecidos": 628
+                },
+                "Melilla": {
+                    "Nombre": "Ciudad Autónoma de Melilla",
+                    "latitud": 35.2934,
+                    "longitud": -2.94015,
+                    "Casos": 24,
+                    "IngresosUCI": 1,
+                    "CasosNuevos": 1,
+                    "Fallecidos": 0
+                },
+                "Murcia": {
+                    "Nombre": "Región de Murcia",
+                    "latitud": 37.9136,
+                    "longitud": -1.45758,
+                    "Casos": 204,
+                    "IngresosUCI": 11,
+                    "CasosNuevos": 37,
+                    "Fallecidos": 0
+                },
+                "Navarra": {
+                    "Nombre": "Comunidad Foral de Navarra",
+                    "latitud": 42.7493,
+                    "longitud": -1.63845,
+                    "Casos": 554,
+                    "IngresosUCI": 19,
+                    "CasosNuevos": 72,
+                    "Fallecidos": 5
+                },
+                "PaisVasco": {
+                    "Nombre": "País Vasco",
+                    "latitud": 43.1071,
+                    "longitud": -2.485125,
+                    "Casos": 1465,
+                    "IngresosUCI": 53,
+                    "CasosNuevos": 175,
+                    "Fallecidos": 71
+                },
+                "LaRioja": {
+                    "Nombre": "La Rioja",
+                    "latitud": 42.3179,
+                    "longitud": -2.40337,
+                    "Casos": 497,
+                    "IngresosUCI": 15,
+                    "CasosNuevos": 29,
+                    "Fallecidos": 7
+                }
+            }
         }
     ]
 }
