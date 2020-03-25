@@ -8,6 +8,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -228,6 +232,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -448,6 +456,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -668,6 +680,10 @@
             "TotalIngresosUCI": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -888,6 +904,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -1108,6 +1128,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -1328,6 +1352,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -1548,6 +1576,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -1768,6 +1800,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -1988,6 +2024,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -2208,6 +2248,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -2428,6 +2472,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -2648,6 +2696,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -2868,6 +2920,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -3088,6 +3144,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidosNuevos": 0,
             "TotalFallecidos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -3308,6 +3368,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -3528,6 +3592,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -3748,6 +3816,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -3968,6 +4040,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -4188,6 +4264,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -4408,6 +4488,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -4628,6 +4712,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -4848,6 +4936,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -5068,6 +5160,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -5288,6 +5384,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -5508,6 +5608,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -5728,6 +5832,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -5948,6 +6056,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -6168,6 +6280,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -6388,6 +6504,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -6608,6 +6728,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -6828,6 +6952,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -7048,6 +7176,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 0,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -7268,6 +7400,10 @@
             "TotalIngresosUCINuevos": 7,
             "TotalFallecidos": 1,
             "TotalFallecidosNuevos": 1,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -7488,6 +7624,10 @@
             "TotalIngresosUCINuevos": 2,
             "TotalFallecidos": 3,
             "TotalFallecidosNuevos": 2,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -7708,6 +7848,10 @@
             "TotalIngresosUCINuevos": 2,
             "TotalFallecidos": 5,
             "TotalFallecidosNuevos": 2,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -7928,6 +8072,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 5,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -8148,6 +8296,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 5,
             "TotalFallecidosNuevos": 0,
+            "Curados": 0,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -8368,6 +8520,10 @@
             "TotalIngresosUCINuevos": 57,
             "TotalFallecidos": 16,
             "TotalFallecidosNuevos": 11,
+            "Curados": 23,
+            "CuradosNuevos": 23,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -8588,6 +8744,10 @@
             "TotalIngresosUCINuevos": 32,
             "TotalFallecidos": 34,
             "TotalFallecidosNuevos": 18,
+            "Curados": 135,
+            "CuradosNuevos": 112,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -8808,6 +8968,10 @@
             "TotalIngresosUCINuevos": 41,
             "TotalFallecidos": 47,
             "TotalFallecidosNuevos": 13,
+            "Curados": 183,
+            "CuradosNuevos": 48,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -9028,6 +9192,10 @@
             "TotalIngresosUCINuevos": 49,
             "TotalFallecidos": 84,
             "TotalFallecidosNuevos": 37,
+            "Curados": 189,
+            "CuradosNuevos": 6,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -9248,6 +9416,10 @@
             "TotalIngresosUCINuevos": 83,
             "TotalFallecidos": 118,
             "TotalFallecidosNuevos": 34,
+            "Curados": 193,
+            "CuradosNuevos": 4,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -9468,6 +9640,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 136,
             "TotalFallecidosNuevos": 18,
+            "Curados": 193,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -9688,6 +9864,10 @@
             "TotalIngresosUCINuevos": 0,
             "TotalFallecidos": 288,
             "TotalFallecidosNuevos": 152,
+            "Curados": 193,
+            "CuradosNuevos": 0,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -9908,6 +10088,10 @@
             "TotalIngresosUCINuevos": 159,
             "TotalFallecidos": 309,
             "TotalFallecidosNuevos": 21,
+            "Curados": 530,
+            "CuradosNuevos": 337,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -10128,6 +10312,10 @@
             "TotalIngresosUCINuevos": 131,
             "TotalFallecidos": 490,
             "TotalFallecidosNuevos": 181,
+            "Curados": 1028,
+            "CuradosNuevos": 498,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -10348,6 +10536,10 @@
             "TotalIngresosUCINuevos": 211,
             "TotalFallecidos": 598,
             "TotalFallecidosNuevos": 108,
+            "Curados": 1081,
+            "CuradosNuevos": 53,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -10568,6 +10760,10 @@
             "TotalIngresosUCINuevos": 165,
             "TotalFallecidos": 767,
             "TotalFallecidosNuevos": 169,
+            "Curados": 1107,
+            "CuradosNuevos": 26,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -10788,6 +10984,10 @@
             "TotalIngresosUCINuevos": 186,
             "TotalFallecidos": 1002,
             "TotalFallecidosNuevos": 235,
+            "Curados": 1585,
+            "CuradosNuevos": 478,
+            "Hospitalizados": null,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -11008,6 +11208,10 @@
             "TotalIngresosUCINuevos": 487,
             "TotalFallecidos": 1326,
             "TotalFallecidosNuevos": 324,
+            "Curados": 2125,
+            "CuradosNuevos": 540,
+            "Hospitalizados": 13282,
+            "HospitalizadosNuevos": null,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -11228,6 +11432,10 @@
             "TotalIngresosUCINuevos": 173,
             "TotalFallecidos": 1720,
             "TotalFallecidosNuevos": 394,
+            "Curados": 2575,
+            "CuradosNuevos": 450,
+            "Hospitalizados": 15554,
+            "HospitalizadosNuevos": 2272,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -11448,6 +11656,10 @@
             "TotalIngresosUCINuevos": 570,
             "TotalFallecidos": 2182,
             "TotalFallecidosNuevos": 462,
+            "Curados": 3355,
+            "CuradosNuevos": 780,
+            "Hospitalizados": 18374,
+            "HospitalizadosNuevos": 2820,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -11668,6 +11880,10 @@
             "TotalIngresosUCINuevos": 281,
             "TotalFallecidos": 2696,
             "TotalFallecidosNuevos": 514,
+            "Curados": 3794,
+            "CuradosNuevos": 439,
+            "Hospitalizados": 22762,
+            "HospitalizadosNuevos": 4388,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
@@ -11888,6 +12104,10 @@
             "TotalIngresosUCINuevos": 530,
             "TotalFallecidos": 3434,
             "TotalFallecidosNuevos": 738,
+            "Curados": 5367,
+            "CuradosNuevos": 1573,
+            "Hospitalizados": 26962,
+            "HospitalizadosNuevos": 4200,
             "ComunidadesAutonomas": {
                 "Andalucia": {
                     "Nombre": "Andalucía",
