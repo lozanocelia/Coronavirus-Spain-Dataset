@@ -25,10 +25,10 @@ Por cada día tenemos:
  * TotalIngresosUCINuevos: Número total de ingresos ese día concreto en UCI en España (No acumulativo).
  * TotalFallecidos: Número total de fallecidos en España (Acumulativo).
  * TotalFallecidosNuevos: Número total de fallecidos ese día concreto en España (No acumulativo).
- * Curados: Número total de curados (altas) en España (Acumulativo).
- * CuradosNuevos: Número total de curados (altas) ese día concreto en España (No acumulativo).
- * Hospitalizados: Número total de hospitalizaciones (Incluyendo UCI) en España (Acumulativo).
- * HospitalizadosNuevos: Número total de hospitalizaciones (Incluyendo UCI) ese día concreto en España (No acumulativo).
+ * TotalCurados: Número total de curados (Altas) en España (Acumulativo).
+ * TotalCuradosNuevos: Número total de curados (Altas) ese día concreto en España (No acumulativo).
+ * TotalHospitalizados: Número total de hospitalizaciones (Incluyendo UCI) en España (Acumulativo).
+ * TotalHospitalizadosNuevos: Número total de hospitalizaciones (Incluyendo UCI) ese día concreto en España (No acumulativo).
 
 Por cada comunidad autónoma tenemos:
  * Nombre: Nombre de la comunidad autónoma.
@@ -36,8 +36,12 @@ Por cada comunidad autónoma tenemos:
  * Longitud: Longitud en grados de la comunidad autónoma.
  * Casos: Número de casos en la comunidad autónoma (Acumulativo).
  * CasosNuevos: Número de casos ese día concreto en la comunidad autónoma (No acumulativo).
+ * Curados: Número de curados (Altas) en la comunidad autónoma (Acumulativo).
+ * CuradosNuevos: Número de curados (Altas) ese día concreto en la comunidad autónoma (No acumulativo).
  * Fallecidos: Número de fallecidos en la comunidad autónoma (Acumulativo).
  * FallecidosNuevos: Número de fallecidos ese día concreto en la comunidad autónoma (No acumulativo).
+ * Hospitalizados: Número de hospitalizados (Incluyendo UCI) en la comunidad autónoma (Acumulativo).
+ * HospitalizadosNuevos: Número de hospitalizados (Incluyendo UCI) ese día concreto en la comunidad autónoma (No acumulativo).
  * IngresosUCI: Número de ingresos en UCI en la comunidad autónoma (Acumulativo).
  * IngresosUCINuevos: Número de ingresos en UCI ese día concreto en la comunidad autónoma (No acumulativo).
 
