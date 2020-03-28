@@ -1,12 +1,12 @@
 # Información sobre los casos de coronavirus en España
 
-_Última actualización: 27-03-2020_
+_Última actualización: 28-03-2020_
 
-* Número de casos: 64.059
-* Número de fallecidos: 4.858
-* Número de hospitalizados: 36.293
-* Número de ingresados en UCI: 4.165
-* Número de curados: 9.375
+* Número de casos: 72.248
+* Número de curados: 12.285
+* Número de fallecidos: 5.690
+* Número de hospitalizados: 40.630
+* Número de ingresados en UCI: 4.575
 
 En este repositorio se ha recopilado la información otorgada diariamente por el Ministerio de Sanidad de españa sobre los casos de coronavirus en las diferentes comunidades autónomas. La información recopilada consiste en el número de casos total, número de casos nuevos, número de fallecimientos y número de ingresos en UCI por cada comunidad autónoma.
 
