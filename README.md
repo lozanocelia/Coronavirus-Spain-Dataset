@@ -21,14 +21,14 @@ Se presentan los datos por día y por comunidad autónoma. En caso de que el val
 Por cada día tenemos:
  * _TotalCasos:_ Número total de casos en España (Acumulativo).
  * _TotalCasosNuevos:_ Número total de casos ese día concreto en España (No acumulativo).
- * _TotalIngresosUCI:_ Número total de ingresos en UCI en España (Acumulativo).
- * _TotalIngresosUCINuevos:_ Número total de ingresos ese día concreto en UCI en España (No acumulativo).
+ * _TotalIngresosUCI:_ Número total de ingresos en UCI en España. En ciertas comunidades autónomas han empezado a informar de que es el total de personas que hay en UCI ese día, no el acumulado ni el número de ingresados nuevos. (Valorando eliminar del dataset).
+ * _TotalIngresosUCINuevos:_ Número total de ingresos ese día concreto en UCI en España. En ciertas comunidades autónomas han empezado a informar de que el total (del que se infiere esta cantidad) es el total de personas que hay en UCI ese día, no el acumulado ni el número de ingresados nuevos. (Valorando eliminar del dataset).
  * _TotalFallecidos:_ Número total de fallecidos en España (Acumulativo).
  * _TotalFallecidosNuevos:_ Número total de fallecidos ese día concreto en España (No acumulativo).
  * _TotalCurados:_ Número total de curados (Altas) en España (Acumulativo).
  * _TotalCuradosNuevos:_ Número total de curados (Altas) ese día concreto en España (No acumulativo).
- * _TotalHospitalizados:_ Número total de hospitalizaciones (Incluyendo UCI) en España (Acumulativo).
- * _TotalHospitalizadosNuevos:_ Número total de hospitalizaciones (Incluyendo UCI) ese día concreto en España (No acumulativo).
+ * _TotalHospitalizados:_ Número total de hospitalizaciones (Incluyendo UCI) en España. En ciertas comunidades autónomas han empezado a informar de que el total (del que se infiere esta cantidad) es el total de personas que hay hospitalizadas ese día concreto, no el acumulado ni el número de ingresados nuevos. (Valorando eliminar del dataset).
+ * _TotalHospitalizadosNuevos:_ Número total de hospitalizaciones (Incluyendo UCI) ese día concreto en España. En ciertas comunidades autónomas han empezado a informar de que el total (del que se infiere esta cantidad) es el total de personas que hay hospitalizadas ese día concreto, no el acumulado ni el número de ingresados nuevos. (Valorando eliminar del dataset).
 
 Por cada comunidad autónoma tenemos:
  * _Nombre:_ Nombre de la comunidad autónoma.
@@ -40,10 +40,10 @@ Por cada comunidad autónoma tenemos:
  * _CuradosNuevos:_ Número de curados (Altas) ese día concreto en la comunidad autónoma (No acumulativo).
  * _Fallecidos:_ Número de fallecidos en la comunidad autónoma (Acumulativo).
  * _FallecidosNuevos:_ Número de fallecidos ese día concreto en la comunidad autónoma (No acumulativo).
- * _Hospitalizados:_ Número de hospitalizados (Incluyendo UCI) en la comunidad autónoma (Acumulativo).
- * _HospitalizadosNuevos:_ Número de hospitalizados (Incluyendo UCI) ese día concreto en la comunidad autónoma (No acumulativo).
- * _IngresosUCI:_ Número de ingresos en UCI en la comunidad autónoma (Acumulativo).
- * _IngresosUCINuevos:_ Número de ingresos en UCI ese día concreto en la comunidad autónoma (No acumulativo).
+ * _Hospitalizados:_ Número de hospitalizados (Incluyendo UCI) en la comunidad autónoma. En ciertas comunidades autónomas han empezado a informar de que el total (del que se infiere esta cantidad) es el total de personas que hay hospitalizadas ese día concreto, no el acumulado ni el número de ingresados nuevos. (Valorando eliminar del dataset).
+ * _HospitalizadosNuevos:_ Número de hospitalizados (Incluyendo UCI) ese día concreto en la comunidad autónoma. En ciertas comunidades autónomas han empezado a informar de que el total (del que se infiere esta cantidad) es el total de personas que hay hospitalizadas ese día concreto, no el acumulado ni el número de ingresados nuevos. (Valorando eliminar del dataset).
+ * _IngresosUCI:_ Número de ingresos en UCI en la comunidad autónoma. En ciertas comunidades autónomas han empezado a informar de que el total (del que se infiere esta cantidad) es el total de personas que hay en UCI ese día concreto, no el acumulado ni el número de ingresados nuevos. (Valorando eliminar del dataset).
+ * _IngresosUCINuevos:_ Número de ingresos en UCI ese día concreto en la comunidad autónoma. En ciertas comunidades autónomas han empezado a informar de que el total (del que se infiere esta cantidad) es el total de personas que hay en UCI ese día concreto, no el acumulado ni el número de ingresados nuevos. (Valorando eliminar del dataset).
 
 ## Veracidad de los datos
 
